@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless cat Mouse",
+      "brand": "Logitech",
+      "price": 20,
+      "category": "Electronics",
+      "stock": 15,
+      "image": "https://i.ibb.co/4pDNDk1/mouse.jpg",
+      "description": "Ergonomic wireless mouse with USB receiver."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "Redragon",
+      "price": 60,
+      "category": "Electronics",
+      "stock": 10,
+      "image": "https://i.ibb.co/Q8DQB0K/keyboard.jpg",
+      "description": "RGB mechanical gaming keyboard with blue switches."
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "brand": "Xiaomi",
+      "price": 80,
+      "category": "Wearables",
+      "stock": 8,
+      "image": "https://i.ibb.co/0jqHpnp/smartwatch.jpg",
+      "description": "Fitness tracking smartwatch with heart-rate monitor."
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 45,
+      "category": "Audio",
+      "stock": 12,
+      "image": "https://i.ibb.co/ZYW3VTp/speaker.jpg",
+      "description": "Portable Bluetooth speaker with deep bass."
+    },
+    {
+      "id": 5,
+      "name": "Gaming Headset",
+      "brand": "Razer",
+      "price": 70,
+      "category": "Gaming",
+      "stock": 6,
+      "image": "https://i.ibb.co/F5ZxXBL/headset.jpg",
+      "description": "Surround sound gaming headset with noise-canceling mic."
+    }
+  ]
+}
