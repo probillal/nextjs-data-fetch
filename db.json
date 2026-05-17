@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless cat Mouse",
+      "name": "Wireless Mouse",
       "brand": "Logitech",
       "price": 20,
       "category": "Electronics",
@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Mechanical Keyboard",
       "brand": "Redragon",
-      "price": 60,
+      "price": 100,
       "category": "Electronics",
       "stock": 10,
       "image": "https://i.ibb.co/Q8DQB0K/keyboard.jpg",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "Smart Watch",
+      "name": "Analog Watch",
       "brand": "Xiaomi",
       "price": 80,
       "category": "Wearables",
