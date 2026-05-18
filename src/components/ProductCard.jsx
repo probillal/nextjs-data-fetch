@@ -3,7 +3,7 @@ import Image from "next/image";
 const ProductCard = ({ product }) => {
   const { name, price, stock, brand, description, image } = product;
   return (
-    <div className="card bg-base-100 w-96 shadow-sm">
+    <div className="card bg-base-100 shadow-sm">
       <figure>
         <Image src={image} width={300} height={200} alt={name} />
       </figure>
