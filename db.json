@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "Analog Watch",
+      "name": "Smart Watch",
       "brand": "Xiaomi",
       "price": 80,
       "category": "Wearables",
@@ -34,7 +34,7 @@
       "id": 4,
       "name": "Bluetooth Speaker",
       "brand": "JBL",
-      "price": 45,
+      "price": 450,
       "category": "Audio",
       "stock": 12,
       "image": "https://i.ibb.co/ZYW3VTp/speaker.jpg",
